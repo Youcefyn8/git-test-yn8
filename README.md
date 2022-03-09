@@ -11,4 +11,7 @@ https://github.com/Youcefyn8/git-test-yn8/invitations
 - discord
 - hola
 - salam
+- alex
+- youcefyn8
+- daishi
 
